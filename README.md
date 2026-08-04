@@ -3,7 +3,7 @@
 ##### This script should trick Chatgpt, Gemini, and Claude free models when decoding
 ##### **Encoder only. Im lazy to code decoder for now.**
 
-######  This script is made by **verycoolbacon**
+###  This script is made by **verycoolbacon**
 # Update Log 2026/AUG/4:
 
 - #### Reuploaded script completely
