@@ -10,7 +10,8 @@ MORSE_CODE_DICT = {
     # Numbers
     '1': '.----',  '2': '..---',  '3': '...--',  '4': '....-',  '5': '.....',
     '6': '-....',  '7': '--...',  '8': '---..',  '9': '----.',  '0': '-----',
-    #made by gemini
+    #made by gemini /\
+    #made by verycoolbacon \/
     '-': '-', '.':'.', '_': '-', ',': '.', '/': '/'
 }
 
@@ -48,3 +49,4 @@ while True:
         break
     else:
         print("number too large,too small or invaild")
+# this script is made by verycoolbacon
