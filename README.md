@@ -8,10 +8,10 @@ This script is made by **verycoolbacon**
 
 - #### Reuploaded script completely
   
-- ## Fixes:
+## Fixes:
 - #### Fixed "number too large, small or invalid" printing forever
   
-- ## New Features:
+## New Features:
 - #### Added customable outputs
 - #### Added continue function
 - #### Added force quit function
