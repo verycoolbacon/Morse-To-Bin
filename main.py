@@ -16,7 +16,6 @@ MORSE_CODE_DICT = {
     '-': '-', '.':'.', '_': '-', ',': '.', '/': '/'
 }
 
-import sys
 repeat = True
 # functions
 def text_to_morse_func(text_input):
