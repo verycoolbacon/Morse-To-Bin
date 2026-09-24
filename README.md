@@ -15,3 +15,7 @@
 - #### Added customable outputs
 - #### Added continue function
 - #### Added force quit function
+
+# Update Log 2026/SEP/24
+## EXTREMELY IMPORTANT:
+## I CHANGED THE LICENSE
