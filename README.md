@@ -4,6 +4,15 @@
 ##### **Encoder only. Im lazy to code decoder for now.**
 
 ###  This script is made by **verycoolbacon**
+
+## Notice:
+#### This script is NOT safe. Please DO NOT use it to protect your sensitive data
+
+# Update Log 2026/SEP/24
+## EXTREMELY IMPORTANT:
+## I CHANGED THE LICENSE
+
+
 # Update Log 2026/AUG/4:
 
 - #### Reuploaded script completely
@@ -15,7 +24,3 @@
 - #### Added customable outputs
 - #### Added continue function
 - #### Added force quit function
-
-# Update Log 2026/SEP/24
-## EXTREMELY IMPORTANT:
-## I CHANGED THE LICENSE
